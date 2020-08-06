@@ -1,0 +1,1 @@
+Since i have hosted this website with help of wamp server. So it will be run using local server only. (shubhHotel.com)
